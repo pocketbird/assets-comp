@@ -1,0 +1,17 @@
+{
+  "name": "owr",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-csscss": "~0.5.0",
+    "load-grunt-tasks": "~0.1.0",
+    "time-grunt": "~0.1.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
